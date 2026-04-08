@@ -172,11 +172,3 @@ Ord.  Doc. ID    Páginas    Prioridade
 |  Erick Sartori           |                |
 
 ---
-
-## 📬 Entrega
-
-- **Data (ADS):** 08/04 até 19h
-- **Data (ES):** 10/04 até 19h
-- **E-mail para:** joao.vsantos@unicesumar.edu.br
-- **Título:** `Trabalho Estruturas de dados ADSIS3S`
-- **CC:** gabriel.pjesus@unicesumar.edu.br e todos os integrantes
